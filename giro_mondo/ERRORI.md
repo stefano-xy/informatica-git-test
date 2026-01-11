@@ -10,9 +10,10 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Capitolo I
 
-- [ ] tutte le occorrenze di `Gambalesta` invece che `Gambadilegno`.
+- [ ] tutte le occorrenze di `Gambadilegno` invece che `Gambalesta`.
 
 ### Capitoli XXXVII
 
-- [ ] riga 16, `sabato` invece che `mercoledì`.
-- [ ] riga 17, `Sabato` invece che `Mercoledì`.
+- [ ] riga 16, `mercoledì` invece che `sabato`.
+- [ ] riga 17, `Mercoledì` invece che `Sabato`.
+- [ ] alla fine, la parole `FINE` è scritta tre volte invece che una.
