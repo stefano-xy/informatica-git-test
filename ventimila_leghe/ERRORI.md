@@ -12,6 +12,8 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 - [ ] Capitolo X: capitano `Nemo` invece che `Nessuno`.
 - [ ] Capitolo XI: il sottomarino `Nautilus` invece che `Alabama`.
+- [ ] Capitolo XII: l'`elettricità` invece che `energia nucleare`.
+- [ ] Capitolo XIII: l'`elettricità` invece che `energia nucleare`.
 
 ### Parte 2
 
