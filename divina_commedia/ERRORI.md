@@ -10,7 +10,7 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Inferno
 
-- [ ] Inferno I: riga 4, `oscura` invece che `luminosa`.
+- [ ] Inferno I: riga 4, `luminosa` invece che `oscura`.
 - [ ] Inferno I: ultima riga duplicata, rimuovere la duplicazione.
 - [ ] Inferno XXVI: ultima riga duplicata, rimuovere la duplicazione.
 
@@ -21,6 +21,6 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 ### Paradiso
 
 - [ ] Paradiso XI: ultima riga duplicata, rimuovere la duplicazione.
-- [ ] Paradiso XI: riga 63, `Perugia` invece che `Roma`.
-- [ ] Paradiso XI: riga 64, `Porta Sole` invece che `Portaportese`.
-- [ ] Paradiso XXXIII: ultima riga, `il sole` invece che `la luna`.
+- [ ] Paradiso XI: riga 63, `Roma` invece che `Perugia`.
+- [ ] Paradiso XI: riga 64, `Portaportese` invece che `Porta Sole`.
+- [ ] Paradiso XXXIII: ultima riga, `la luna` invece che `il sole`.

@@ -10,13 +10,13 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Parte 1
 
-- [ ] Capitolo X: capitano `Nemo` invece che `Nessuno`.
-- [ ] Capitolo XI: il sottomarino `Nautilus` invece che `Alabama`.
-- [ ] Capitolo XII: l'`elettricità` invece che `energia nucleare`.
-- [ ] Capitolo XIII: l'`elettricità` invece che `energia nucleare`.
+- [ ] Capitolo X: capitano `Nessuno` invece che `Nemo`.
+- [ ] Capitolo XI: il sottomarino `Alabama` invece che `Nautilus`.
+- [ ] Capitolo XII: `energia nucleare` invece che `elettricità`.
+- [ ] Capitolo XIII: `energia nucleare` invece che `elettricità`.
 
 ### Parte 2
 
-- [ ] Capitolo XXII: il sottomarino `Nautilus` invece che `Alabama`.
-- [ ] Capitolo XXIII: 2 occorrenze del sottomarino `Nautilus` invece che `Alabama`.
-- [ ] Capitolo XXIII: 4 occorrenze del capitano `Nemo` invece che `Nessuno`.
+- [ ] Capitolo XXII: il sottomarino `Alabama` invece che `Nautilus`.
+- [ ] Capitolo XXIII: 2 occorrenze del sottomarino `Alabama` invece che `Nautilus`.
+- [ ] Capitolo XXIII: 4 occorrenze del capitano `Nessuno` invece che `Nemo`.

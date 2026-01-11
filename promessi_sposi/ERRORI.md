@@ -10,9 +10,9 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Capitolo I
 
-- [ ] riga 1, `mezzogiorno` invece che `mezzanotte`.
-- [ ] riga 2, `don Abbondio` invece che `don Matteo`.
+- [ ] riga 1, `mezzanotte` invece che `mezzogiorno`.
+- [ ] riga 2, `don Matteo` invece che `don Abbondio`.
 
 ### Capitoli XIX e XX
 
-- [ ] tutte le occorrenze di `innominato` invece che `pincopallino` 
+- [ ] tutte le occorrenze di `pincopallino` invece che `innominato`. 
