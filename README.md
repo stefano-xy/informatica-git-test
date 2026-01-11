@@ -17,6 +17,7 @@ Sono disponibili i seguenti testi, ognuno con
 un elenco di errori _ben evidenziati_ nel testo
 e le indicazioni di come correggerli:
 
-- Dante, [Divina Commedia](divina_commedia/ERRORI.md)
-- Manzoni, [Promessi Sposi](promessi_sposi/ERRORI.md)
+- Dante, [La Divina Commedia](divina_commedia/ERRORI.md)
+- Manzoni, [I Promessi Sposi](promessi_sposi/ERRORI.md)
 - Verne, [Ventimila Leghe sotto ai Mari](ventimila_leghe/ERRORI.md)
+- Verne, [Il Giro del Mondo in 80 Giorni](giro_mondo/ERRORI.md)
