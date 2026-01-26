@@ -16,7 +16,7 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Purgatorio
 
-- [ ] Purgatorio I: ultima riga duplicata, rimuovere la duplicazione.
+- [X] Purgatorio I: ultima riga duplicata, rimuovere la duplicazione.
 
 ### Paradiso
 
