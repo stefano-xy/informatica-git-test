@@ -1,4 +1,4 @@
-# Ventimila Leghe sotto ai Mari
+XX# Ventimila Leghe sotto ai Mari
 
 ## Errori da correggere
 
@@ -10,13 +10,13 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Parte 1
 
-- [ ] Capitolo X: capitano `Nessuno` invece che `Nemo`.
+- [x] Capitolo X: capitano `Nessuno` invece che `Nemo`.
 - [x] Capitolo XI: il sottomarino `Alabama` invece che `Nautilus`.
-- [ ] Capitolo XII: `energia nucleare` invece che `elettricità`.
-- [ ] Capitolo XIII: `energia nucleare` invece che `elettricità`.
+- [X] Capitolo XII: `energia nucleare` invece che `elettricità`.
+- [X] Capitolo XIII: `energia nucleare` invece che `elettricità`.
 
 ### Parte 2
 
-- [ ] Capitolo XXII: il sottomarino `Alabama` invece che `Nautilus`.
+- [x] Capitolo XXII: il sottomarino `Alabama` invece che `Nautilus`.
 - [ ] Capitolo XXIII: 2 occorrenze del sottomarino `Alabama` invece che `Nautilus`.
 - [ ] Capitolo XXIII: 4 occorrenze del capitano `Nessuno` invece che `Nemo`.
