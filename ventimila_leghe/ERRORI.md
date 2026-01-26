@@ -17,6 +17,6 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Parte 2
 
-- [ ] Capitolo XXII: il sottomarino `Alabama` invece che `Nautilus`.
+- [x] Capitolo XXII: il sottomarino `Alabama` invece che `Nautilus`.
 - [ ] Capitolo XXIII: 2 occorrenze del sottomarino `Alabama` invece che `Nautilus`.
 - [ ] Capitolo XXIII: 4 occorrenze del capitano `Nessuno` invece che `Nemo`.
