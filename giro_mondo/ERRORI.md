@@ -19,5 +19,5 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 - [ ] riga 16, `mercoledì` invece che `sabato`.
 - [ ] riga 17, `Mercoledì` invece che `Sabato`.
-- [ ] riga 23, `sesterzi` invece che `sterline`.
-- [ ] alla fine, la parole `FINE` è scritta tre volte invece che una.
+- [X] riga 23, `sesterzi` invece che `sterline`.
+- [X] alla fine, la parole `FINE` è scritta tre volte invece che una.
