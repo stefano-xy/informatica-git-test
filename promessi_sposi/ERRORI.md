@@ -15,4 +15,4 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 
 ### Capitoli XIX e XX
 
-- [ ] tutte le occorrenze di `pincopallino` invece che `innominato`. 
+- [x] tutte le occorrenze di `pincopallino` invece che `innominato`. 
