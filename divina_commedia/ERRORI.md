@@ -23,4 +23,4 @@ Marcare con una `X` gli errori che vengono a mano mano corretti, es:
 - [ ] Paradiso XI: ultima riga duplicata, rimuovere la duplicazione.
 - [ ] Paradiso XI: riga 63, `Roma` invece che `Perugia`.
 - [ ] Paradiso XI: riga 64, `Portaportese` invece che `Porta Sole`.
-- [ ] Paradiso XXXIII: ultima riga, `la luna` invece che `il sole`.
+- [x] Paradiso XXXIII: ultima riga, `la luna` invece che `il sole`.
